@@ -1,0 +1,5 @@
+.idea
+venv
+dist
+upx.1
+upx.exe
